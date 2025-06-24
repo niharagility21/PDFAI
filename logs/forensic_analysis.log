@@ -1,0 +1,193 @@
+2025-06-24 17:02:43,207 - forensic_analysis - INFO - process_pdf_background:99 - Starting comprehensive forensic analysis for job 24f4b0da-d680-41a4-a905-7420d59adf2e
+2025-06-24 17:02:43,208 - forensic_analysis - INFO - extract_pdf_metadata:421 - Starting comprehensive PDF forensic analysis for: C:\Users\nihar\AppData\Local\Temp\tmpkbaulmj_\invoice-a00003-agility-innovations-private-limited-drop-caribbean-ltd.pdf
+2025-06-24 17:02:43,208 - forensic_analysis - INFO - extract_pdf_metadata:443 - Calculating file integrity hashes
+2025-06-24 17:02:43,230 - forensic_analysis - INFO - extract_pdf_metadata:450 - Extracting basic document information
+2025-06-24 17:02:43,230 - forensic_analysis - INFO - extract_pdf_metadata:453 - Document Information Dictionary found
+2025-06-24 17:02:43,231 - forensic_analysis - INFO - extract_pdf_metadata:529 - Performing detailed XMP metadata analysis
+2025-06-24 17:02:43,231 - forensic_analysis - INFO - analyze_xmp_metadata:84 - Starting XMP metadata analysis
+2025-06-24 17:02:43,231 - forensic_analysis - WARNING - analyze_xmp_metadata:95 - No XMP metadata found
+2025-06-24 17:02:43,231 - forensic_analysis - INFO - extract_pdf_metadata:543 - Analyzing PDF object structure
+2025-06-24 17:02:43,231 - forensic_analysis - INFO - analyze_pdf_objects:151 - Starting PDF object analysis for: C:\Users\nihar\AppData\Local\Temp\tmpkbaulmj_\invoice-a00003-agility-innovations-private-limited-drop-caribbean-ltd.pdf
+2025-06-24 17:02:43,234 - forensic_analysis - INFO - analyze_pdf_objects:170 - Found 128 PDF objects
+2025-06-24 17:02:43,235 - forensic_analysis - INFO - analyze_pdf_objects:208 - PDF object analysis complete
+2025-06-24 17:02:43,235 - forensic_analysis - INFO - extract_pdf_metadata:551 - Analyzing fonts and typography
+2025-06-24 17:02:43,236 - forensic_analysis - INFO - analyze_fonts:213 - Starting font analysis
+2025-06-24 17:02:43,237 - forensic_analysis - INFO - analyze_fonts:250 - Found 0 unique fonts
+2025-06-24 17:02:43,237 - forensic_analysis - INFO - analyze_fonts:277 - Font analysis complete
+2025-06-24 17:02:43,237 - forensic_analysis - INFO - extract_pdf_metadata:559 - Analyzing embedded images
+2025-06-24 17:02:43,237 - forensic_analysis - INFO - analyze_images:282 - Starting image analysis
+2025-06-24 17:02:43,237 - forensic_analysis - INFO - analyze_images:390 - Image analysis complete. Found 0 images
+2025-06-24 17:02:43,237 - forensic_analysis - INFO - extract_pdf_metadata:572 - Performing security analysis
+2025-06-24 17:02:43,238 - forensic_analysis - INFO - extract_pdf_metadata:625 - Performing comprehensive risk assessment
+2025-06-24 17:02:43,238 - forensic_analysis - INFO - extract_pdf_metadata:691 - Comprehensive forensic analysis complete
+2025-06-24 17:02:43,238 - forensic_analysis - INFO - process_pdf_background:124 - Stored comprehensive metadata in processing_results
+2025-06-24 17:07:02,032 - forensic_analysis - INFO - process_pdf_background:99 - Starting comprehensive forensic analysis for job 53b9fad0-3baf-42a6-88ab-de2845062960
+2025-06-24 17:07:02,032 - forensic_analysis - INFO - extract_pdf_metadata:421 - Starting comprehensive PDF forensic analysis for: C:\Users\nihar\AppData\Local\Temp\tmp413mozya\invoice-a00003-agility-innovations-private-limited-drop-caribbean-ltd.pdf
+2025-06-24 17:07:02,032 - forensic_analysis - INFO - extract_pdf_metadata:443 - Calculating file integrity hashes
+2025-06-24 17:07:02,053 - forensic_analysis - INFO - extract_pdf_metadata:450 - Extracting basic document information
+2025-06-24 17:07:02,053 - forensic_analysis - INFO - extract_pdf_metadata:453 - Document Information Dictionary found
+2025-06-24 17:07:02,054 - forensic_analysis - INFO - extract_pdf_metadata:529 - Performing detailed XMP metadata analysis
+2025-06-24 17:07:02,055 - forensic_analysis - INFO - analyze_xmp_metadata:84 - Starting XMP metadata analysis
+2025-06-24 17:07:02,055 - forensic_analysis - WARNING - analyze_xmp_metadata:95 - No XMP metadata found
+2025-06-24 17:07:02,055 - forensic_analysis - INFO - extract_pdf_metadata:543 - Analyzing PDF object structure
+2025-06-24 17:07:02,055 - forensic_analysis - INFO - analyze_pdf_objects:151 - Starting PDF object analysis for: C:\Users\nihar\AppData\Local\Temp\tmp413mozya\invoice-a00003-agility-innovations-private-limited-drop-caribbean-ltd.pdf
+2025-06-24 17:07:02,058 - forensic_analysis - INFO - analyze_pdf_objects:170 - Found 128 PDF objects
+2025-06-24 17:07:02,058 - forensic_analysis - INFO - analyze_pdf_objects:208 - PDF object analysis complete
+2025-06-24 17:07:02,058 - forensic_analysis - INFO - extract_pdf_metadata:551 - Analyzing fonts and typography
+2025-06-24 17:07:02,058 - forensic_analysis - INFO - analyze_fonts:213 - Starting font analysis
+2025-06-24 17:07:02,059 - forensic_analysis - INFO - analyze_fonts:250 - Found 0 unique fonts
+2025-06-24 17:07:02,059 - forensic_analysis - INFO - analyze_fonts:277 - Font analysis complete
+2025-06-24 17:07:02,059 - forensic_analysis - INFO - extract_pdf_metadata:559 - Analyzing embedded images
+2025-06-24 17:07:02,059 - forensic_analysis - INFO - analyze_images:282 - Starting image analysis
+2025-06-24 17:07:02,059 - forensic_analysis - INFO - analyze_images:390 - Image analysis complete. Found 0 images
+2025-06-24 17:07:02,059 - forensic_analysis - INFO - extract_pdf_metadata:572 - Performing security analysis
+2025-06-24 17:07:02,059 - forensic_analysis - INFO - extract_pdf_metadata:625 - Performing comprehensive risk assessment
+2025-06-24 17:07:02,059 - forensic_analysis - INFO - extract_pdf_metadata:691 - Comprehensive forensic analysis complete
+2025-06-24 17:07:02,059 - forensic_analysis - INFO - process_pdf_background:124 - Stored comprehensive metadata in processing_results
+2025-06-24 17:13:13,127 - forensic_analysis - INFO - process_pdf_background:99 - Starting comprehensive forensic analysis for job 55ab5ba2-ad0c-427b-ad78-bd144b660226
+2025-06-24 17:13:13,129 - forensic_analysis - INFO - extract_pdf_metadata:421 - Starting comprehensive PDF forensic analysis for: C:\Users\nihar\AppData\Local\Temp\tmpa31zo5z5\invoice-a00003-agility-innovations-private-limited-drop-caribbean-ltd.pdf
+2025-06-24 17:13:13,132 - forensic_analysis - INFO - extract_pdf_metadata:443 - Calculating file integrity hashes
+2025-06-24 17:13:13,162 - forensic_analysis - INFO - extract_pdf_metadata:450 - Extracting basic document information
+2025-06-24 17:13:13,163 - forensic_analysis - INFO - extract_pdf_metadata:453 - Document Information Dictionary found
+2025-06-24 17:13:13,164 - forensic_analysis - INFO - extract_pdf_metadata:529 - Performing detailed XMP metadata analysis
+2025-06-24 17:13:13,164 - forensic_analysis - INFO - analyze_xmp_metadata:84 - Starting XMP metadata analysis
+2025-06-24 17:13:13,165 - forensic_analysis - WARNING - analyze_xmp_metadata:95 - No XMP metadata found
+2025-06-24 17:13:13,165 - forensic_analysis - INFO - extract_pdf_metadata:543 - Analyzing PDF object structure
+2025-06-24 17:13:13,165 - forensic_analysis - INFO - analyze_pdf_objects:151 - Starting PDF object analysis for: C:\Users\nihar\AppData\Local\Temp\tmpa31zo5z5\invoice-a00003-agility-innovations-private-limited-drop-caribbean-ltd.pdf
+2025-06-24 17:13:13,173 - forensic_analysis - INFO - analyze_pdf_objects:170 - Found 128 PDF objects
+2025-06-24 17:13:13,176 - forensic_analysis - INFO - analyze_pdf_objects:208 - PDF object analysis complete
+2025-06-24 17:13:13,176 - forensic_analysis - INFO - extract_pdf_metadata:551 - Analyzing fonts and typography
+2025-06-24 17:13:13,176 - forensic_analysis - INFO - analyze_fonts:213 - Starting font analysis
+2025-06-24 17:13:13,177 - forensic_analysis - INFO - analyze_fonts:250 - Found 0 unique fonts
+2025-06-24 17:13:13,178 - forensic_analysis - INFO - analyze_fonts:277 - Font analysis complete
+2025-06-24 17:13:13,178 - forensic_analysis - INFO - extract_pdf_metadata:559 - Analyzing embedded images
+2025-06-24 17:13:13,179 - forensic_analysis - INFO - analyze_images:282 - Starting image analysis
+2025-06-24 17:13:13,179 - forensic_analysis - INFO - analyze_images:390 - Image analysis complete. Found 0 images
+2025-06-24 17:13:13,180 - forensic_analysis - INFO - extract_pdf_metadata:572 - Performing security analysis
+2025-06-24 17:13:13,181 - forensic_analysis - INFO - extract_pdf_metadata:625 - Performing comprehensive risk assessment
+2025-06-24 17:13:13,181 - forensic_analysis - INFO - extract_pdf_metadata:691 - Comprehensive forensic analysis complete
+2025-06-24 17:13:13,181 - forensic_analysis - INFO - process_pdf_background:124 - Stored comprehensive metadata in processing_results
+2025-06-24 17:31:21,099 - forensic_analysis - INFO - process_pdf_background:99 - Starting comprehensive forensic analysis for job 121c2ab1-a998-432c-9e4e-b2ad7caa9ff4
+2025-06-24 17:31:21,099 - forensic_analysis - INFO - extract_pdf_metadata:421 - Starting comprehensive PDF forensic analysis for: C:\Users\nihar\AppData\Local\Temp\tmpv51esenx\invoice-a00003-agility-innovations-private-limited-drop-caribbean-ltd.pdf
+2025-06-24 17:31:21,103 - forensic_analysis - INFO - extract_pdf_metadata:443 - Calculating file integrity hashes
+2025-06-24 17:31:21,132 - forensic_analysis - INFO - extract_pdf_metadata:450 - Extracting basic document information
+2025-06-24 17:31:21,133 - forensic_analysis - INFO - extract_pdf_metadata:453 - Document Information Dictionary found
+2025-06-24 17:31:21,134 - forensic_analysis - INFO - extract_pdf_metadata:529 - Performing detailed XMP metadata analysis
+2025-06-24 17:31:21,135 - forensic_analysis - INFO - analyze_xmp_metadata:84 - Starting XMP metadata analysis
+2025-06-24 17:31:21,135 - forensic_analysis - WARNING - analyze_xmp_metadata:95 - No XMP metadata found
+2025-06-24 17:31:21,135 - forensic_analysis - INFO - extract_pdf_metadata:543 - Analyzing PDF object structure
+2025-06-24 17:31:21,136 - forensic_analysis - INFO - analyze_pdf_objects:151 - Starting PDF object analysis for: C:\Users\nihar\AppData\Local\Temp\tmpv51esenx\invoice-a00003-agility-innovations-private-limited-drop-caribbean-ltd.pdf
+2025-06-24 17:31:21,141 - forensic_analysis - INFO - analyze_pdf_objects:170 - Found 128 PDF objects
+2025-06-24 17:31:21,145 - forensic_analysis - INFO - analyze_pdf_objects:208 - PDF object analysis complete
+2025-06-24 17:31:21,146 - forensic_analysis - INFO - extract_pdf_metadata:551 - Analyzing fonts and typography
+2025-06-24 17:31:21,146 - forensic_analysis - INFO - analyze_fonts:213 - Starting font analysis
+2025-06-24 17:31:21,148 - forensic_analysis - INFO - analyze_fonts:250 - Found 0 unique fonts
+2025-06-24 17:31:21,148 - forensic_analysis - INFO - analyze_fonts:277 - Font analysis complete
+2025-06-24 17:31:21,148 - forensic_analysis - INFO - extract_pdf_metadata:559 - Analyzing embedded images
+2025-06-24 17:31:21,149 - forensic_analysis - INFO - analyze_images:282 - Starting image analysis
+2025-06-24 17:31:21,149 - forensic_analysis - INFO - analyze_images:390 - Image analysis complete. Found 0 images
+2025-06-24 17:31:21,150 - forensic_analysis - INFO - extract_pdf_metadata:572 - Performing security analysis
+2025-06-24 17:31:21,151 - forensic_analysis - INFO - extract_pdf_metadata:625 - Performing comprehensive risk assessment
+2025-06-24 17:31:21,152 - forensic_analysis - INFO - extract_pdf_metadata:691 - Comprehensive forensic analysis complete
+2025-06-24 17:31:21,152 - forensic_analysis - INFO - process_pdf_background:124 - Stored comprehensive metadata in processing_results
+2025-06-24 17:33:13,315 - forensic_analysis - INFO - process_pdf_background:99 - Starting comprehensive forensic analysis for job cd3378b1-d0bc-48c7-9714-fd41a9fe0e81
+2025-06-24 17:33:13,317 - forensic_analysis - INFO - extract_pdf_metadata:421 - Starting comprehensive PDF forensic analysis for: C:\Users\nihar\AppData\Local\Temp\tmpw187f8at\invoice-a00001-agility-innovations-private-limited-bacancy-technology-inc_1_1.pdf
+2025-06-24 17:33:13,318 - forensic_analysis - INFO - extract_pdf_metadata:443 - Calculating file integrity hashes
+2025-06-24 17:33:13,347 - forensic_analysis - INFO - extract_pdf_metadata:450 - Extracting basic document information
+2025-06-24 17:33:13,348 - forensic_analysis - INFO - extract_pdf_metadata:453 - Document Information Dictionary found
+2025-06-24 17:33:13,349 - forensic_analysis - INFO - extract_pdf_metadata:529 - Performing detailed XMP metadata analysis
+2025-06-24 17:33:13,350 - forensic_analysis - INFO - analyze_xmp_metadata:84 - Starting XMP metadata analysis
+2025-06-24 17:33:13,350 - forensic_analysis - WARNING - analyze_xmp_metadata:95 - No XMP metadata found
+2025-06-24 17:33:13,350 - forensic_analysis - INFO - extract_pdf_metadata:543 - Analyzing PDF object structure
+2025-06-24 17:33:13,352 - forensic_analysis - INFO - analyze_pdf_objects:151 - Starting PDF object analysis for: C:\Users\nihar\AppData\Local\Temp\tmpw187f8at\invoice-a00001-agility-innovations-private-limited-bacancy-technology-inc_1_1.pdf
+2025-06-24 17:33:13,359 - forensic_analysis - INFO - analyze_pdf_objects:170 - Found 146 PDF objects
+2025-06-24 17:33:13,361 - forensic_analysis - INFO - analyze_pdf_objects:208 - PDF object analysis complete
+2025-06-24 17:33:13,361 - forensic_analysis - INFO - extract_pdf_metadata:551 - Analyzing fonts and typography
+2025-06-24 17:33:13,362 - forensic_analysis - INFO - analyze_fonts:213 - Starting font analysis
+2025-06-24 17:33:13,362 - forensic_analysis - INFO - analyze_fonts:250 - Found 0 unique fonts
+2025-06-24 17:33:13,363 - forensic_analysis - INFO - analyze_fonts:277 - Font analysis complete
+2025-06-24 17:33:13,363 - forensic_analysis - INFO - extract_pdf_metadata:559 - Analyzing embedded images
+2025-06-24 17:33:13,363 - forensic_analysis - INFO - analyze_images:282 - Starting image analysis
+2025-06-24 17:33:13,363 - forensic_analysis - INFO - analyze_images:390 - Image analysis complete. Found 0 images
+2025-06-24 17:33:13,363 - forensic_analysis - INFO - extract_pdf_metadata:572 - Performing security analysis
+2025-06-24 17:33:13,365 - forensic_analysis - INFO - extract_pdf_metadata:625 - Performing comprehensive risk assessment
+2025-06-24 17:33:13,365 - forensic_analysis - INFO - extract_pdf_metadata:691 - Comprehensive forensic analysis complete
+2025-06-24 17:33:13,365 - forensic_analysis - INFO - process_pdf_background:124 - Stored comprehensive metadata in processing_results
+2025-06-24 17:33:48,057 - forensic_analysis - INFO - process_pdf_background:99 - Starting comprehensive forensic analysis for job 7de84877-8346-461f-8d45-b1756460a89c
+2025-06-24 17:33:48,059 - forensic_analysis - INFO - extract_pdf_metadata:421 - Starting comprehensive PDF forensic analysis for: C:\Users\nihar\AppData\Local\Temp\tmp13h5lcje\60109243_1.pdf
+2025-06-24 17:33:48,060 - forensic_analysis - INFO - extract_pdf_metadata:443 - Calculating file integrity hashes
+2025-06-24 17:33:48,093 - forensic_analysis - INFO - extract_pdf_metadata:450 - Extracting basic document information
+2025-06-24 17:33:48,094 - forensic_analysis - INFO - extract_pdf_metadata:453 - Document Information Dictionary found
+2025-06-24 17:33:48,095 - forensic_analysis - INFO - extract_pdf_metadata:526 - Editing software detected: Creator: Acrobat PDFMaker 24 for Excel
+2025-06-24 17:33:48,095 - forensic_analysis - INFO - extract_pdf_metadata:529 - Performing detailed XMP metadata analysis
+2025-06-24 17:33:48,105 - forensic_analysis - INFO - analyze_xmp_metadata:84 - Starting XMP metadata analysis
+2025-06-24 17:33:48,109 - forensic_analysis - INFO - analyze_xmp_metadata:146 - XMP analysis complete. Found 0 software entries
+2025-06-24 17:33:48,111 - forensic_analysis - INFO - extract_pdf_metadata:543 - Analyzing PDF object structure
+2025-06-24 17:33:48,111 - forensic_analysis - INFO - analyze_pdf_objects:151 - Starting PDF object analysis for: C:\Users\nihar\AppData\Local\Temp\tmp13h5lcje\60109243_1.pdf
+2025-06-24 17:33:48,114 - forensic_analysis - INFO - analyze_pdf_objects:170 - Found 104 PDF objects
+2025-06-24 17:33:48,116 - forensic_analysis - WARNING - analyze_pdf_objects:201 - Object streams detected: Object streams found (5) - can hide object modifications
+2025-06-24 17:33:48,116 - forensic_analysis - INFO - analyze_pdf_objects:208 - PDF object analysis complete
+2025-06-24 17:33:48,117 - forensic_analysis - INFO - extract_pdf_metadata:551 - Analyzing fonts and typography
+2025-06-24 17:33:48,117 - forensic_analysis - INFO - analyze_fonts:213 - Starting font analysis
+2025-06-24 17:33:48,120 - forensic_analysis - INFO - analyze_fonts:250 - Found 0 unique fonts
+2025-06-24 17:33:48,120 - forensic_analysis - INFO - analyze_fonts:277 - Font analysis complete
+2025-06-24 17:33:48,120 - forensic_analysis - INFO - extract_pdf_metadata:559 - Analyzing embedded images
+2025-06-24 17:33:48,120 - forensic_analysis - INFO - analyze_images:282 - Starting image analysis
+2025-06-24 17:33:48,402 - forensic_analysis - INFO - analyze_images:390 - Image analysis complete. Found 1 images
+2025-06-24 17:33:48,402 - forensic_analysis - INFO - extract_pdf_metadata:572 - Performing security analysis
+2025-06-24 17:33:48,403 - forensic_analysis - INFO - extract_pdf_metadata:625 - Performing comprehensive risk assessment
+2025-06-24 17:33:48,403 - forensic_analysis - INFO - extract_pdf_metadata:691 - Comprehensive forensic analysis complete
+2025-06-24 17:33:48,403 - forensic_analysis - INFO - process_pdf_background:124 - Stored comprehensive metadata in processing_results
+2025-06-24 17:34:27,560 - forensic_analysis - INFO - process_pdf_background:99 - Starting comprehensive forensic analysis for job 13bae8ee-87a8-4c0f-b6f6-c8e347b5ec63
+2025-06-24 17:34:27,560 - forensic_analysis - INFO - extract_pdf_metadata:421 - Starting comprehensive PDF forensic analysis for: C:\Users\nihar\AppData\Local\Temp\tmplbmzx0j_\GST_Registration_Certificate.pdf
+2025-06-24 17:34:27,562 - forensic_analysis - INFO - extract_pdf_metadata:443 - Calculating file integrity hashes
+2025-06-24 17:34:27,592 - forensic_analysis - INFO - extract_pdf_metadata:450 - Extracting basic document information
+2025-06-24 17:34:27,593 - forensic_analysis - INFO - extract_pdf_metadata:453 - Document Information Dictionary found
+2025-06-24 17:34:27,593 - forensic_analysis - INFO - extract_pdf_metadata:529 - Performing detailed XMP metadata analysis
+2025-06-24 17:34:27,594 - forensic_analysis - INFO - analyze_xmp_metadata:84 - Starting XMP metadata analysis
+2025-06-24 17:34:27,594 - forensic_analysis - WARNING - analyze_xmp_metadata:95 - No XMP metadata found
+2025-06-24 17:34:27,594 - forensic_analysis - INFO - extract_pdf_metadata:543 - Analyzing PDF object structure
+2025-06-24 17:34:27,594 - forensic_analysis - INFO - analyze_pdf_objects:151 - Starting PDF object analysis for: C:\Users\nihar\AppData\Local\Temp\tmplbmzx0j_\GST_Registration_Certificate.pdf
+2025-06-24 17:34:27,604 - forensic_analysis - INFO - analyze_pdf_objects:170 - Found 35 PDF objects
+2025-06-24 17:34:27,606 - forensic_analysis - WARNING - analyze_pdf_objects:179 - Suspicious object found: Form fields present (14 instances)
+2025-06-24 17:34:27,606 - forensic_analysis - WARNING - analyze_pdf_objects:179 - Suspicious object found: Annotation found (2 instances)
+2025-06-24 17:34:27,608 - forensic_analysis - WARNING - analyze_pdf_objects:187 - Potential modification: Multiple cross-reference tables found (2)
+2025-06-24 17:34:27,608 - forensic_analysis - WARNING - analyze_pdf_objects:194 - Incremental updates found: Document has 1 incremental updates
+2025-06-24 17:34:27,609 - forensic_analysis - INFO - analyze_pdf_objects:208 - PDF object analysis complete
+2025-06-24 17:34:27,609 - forensic_analysis - INFO - extract_pdf_metadata:551 - Analyzing fonts and typography
+2025-06-24 17:34:27,610 - forensic_analysis - INFO - analyze_fonts:213 - Starting font analysis
+2025-06-24 17:34:27,612 - forensic_analysis - INFO - analyze_fonts:250 - Found 0 unique fonts
+2025-06-24 17:34:27,612 - forensic_analysis - INFO - analyze_fonts:277 - Font analysis complete
+2025-06-24 17:34:27,612 - forensic_analysis - INFO - extract_pdf_metadata:559 - Analyzing embedded images
+2025-06-24 17:34:27,612 - forensic_analysis - INFO - analyze_images:282 - Starting image analysis
+2025-06-24 17:34:27,642 - forensic_analysis - WARNING - analyze_images:373 - Image format inconsistency: Multiple image formats found: {'Other': 1, 'JPEG': 5}
+2025-06-24 17:34:27,642 - forensic_analysis - WARNING - analyze_images:388 - Image resolution anomaly: Significant resolution differences between images
+2025-06-24 17:34:27,643 - forensic_analysis - INFO - analyze_images:390 - Image analysis complete. Found 6 images
+2025-06-24 17:34:27,643 - forensic_analysis - INFO - extract_pdf_metadata:572 - Performing security analysis
+2025-06-24 17:34:27,644 - forensic_analysis - WARNING - extract_pdf_metadata:586 - WARNING: Found 2 EOF markers
+2025-06-24 17:34:27,644 - forensic_analysis - INFO - extract_pdf_metadata:625 - Performing comprehensive risk assessment
+2025-06-24 17:34:27,644 - forensic_analysis - INFO - extract_pdf_metadata:691 - Comprehensive forensic analysis complete
+2025-06-24 17:34:27,646 - forensic_analysis - INFO - process_pdf_background:124 - Stored comprehensive metadata in processing_results
+2025-06-24 17:36:42,080 - forensic_analysis - INFO - process_pdf_background:99 - Starting comprehensive forensic analysis for job ccd636b6-a516-466d-8ebb-c70bd4cb96db
+2025-06-24 17:36:42,082 - forensic_analysis - INFO - extract_pdf_metadata:421 - Starting comprehensive PDF forensic analysis for: C:\Users\nihar\AppData\Local\Temp\tmplq196st6\overall_recommendations.pdf
+2025-06-24 17:36:42,084 - forensic_analysis - INFO - extract_pdf_metadata:443 - Calculating file integrity hashes
+2025-06-24 17:36:42,118 - forensic_analysis - INFO - extract_pdf_metadata:450 - Extracting basic document information
+2025-06-24 17:36:42,123 - forensic_analysis - INFO - extract_pdf_metadata:453 - Document Information Dictionary found
+2025-06-24 17:36:42,125 - forensic_analysis - INFO - extract_pdf_metadata:529 - Performing detailed XMP metadata analysis
+2025-06-24 17:36:42,125 - forensic_analysis - INFO - analyze_xmp_metadata:84 - Starting XMP metadata analysis
+2025-06-24 17:36:42,126 - forensic_analysis - WARNING - analyze_xmp_metadata:95 - No XMP metadata found
+2025-06-24 17:36:42,126 - forensic_analysis - INFO - extract_pdf_metadata:543 - Analyzing PDF object structure
+2025-06-24 17:36:42,127 - forensic_analysis - INFO - analyze_pdf_objects:151 - Starting PDF object analysis for: C:\Users\nihar\AppData\Local\Temp\tmplq196st6\overall_recommendations.pdf
+2025-06-24 17:36:42,134 - forensic_analysis - INFO - analyze_pdf_objects:170 - Found 306 PDF objects
+2025-06-24 17:36:42,139 - forensic_analysis - INFO - analyze_pdf_objects:208 - PDF object analysis complete
+2025-06-24 17:36:42,140 - forensic_analysis - INFO - extract_pdf_metadata:551 - Analyzing fonts and typography
+2025-06-24 17:36:42,141 - forensic_analysis - INFO - analyze_fonts:213 - Starting font analysis
+2025-06-24 17:36:42,144 - forensic_analysis - INFO - analyze_fonts:250 - Found 0 unique fonts
+2025-06-24 17:36:42,145 - forensic_analysis - INFO - analyze_fonts:277 - Font analysis complete
+2025-06-24 17:36:42,145 - forensic_analysis - INFO - extract_pdf_metadata:559 - Analyzing embedded images
+2025-06-24 17:36:42,145 - forensic_analysis - INFO - analyze_images:282 - Starting image analysis
+2025-06-24 17:36:42,146 - forensic_analysis - INFO - analyze_images:390 - Image analysis complete. Found 0 images
+2025-06-24 17:36:42,146 - forensic_analysis - INFO - extract_pdf_metadata:572 - Performing security analysis
+2025-06-24 17:36:42,147 - forensic_analysis - INFO - extract_pdf_metadata:625 - Performing comprehensive risk assessment
+2025-06-24 17:36:42,147 - forensic_analysis - INFO - extract_pdf_metadata:691 - Comprehensive forensic analysis complete
+2025-06-24 17:36:42,147 - forensic_analysis - INFO - process_pdf_background:124 - Stored comprehensive metadata in processing_results

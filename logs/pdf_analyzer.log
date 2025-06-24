@@ -1,0 +1,243 @@
+2025-06-24 13:49:33,972 - pdf_analyzer - INFO - <module>:3048 - Starting PDF Forensic Analyzer Pro with enhanced UI and logging
+2025-06-24 13:49:33,972 - pdf_analyzer - INFO - <module>:3049 - Features: Comprehensive forensic analysis, intelligent table extraction, premium UI
+2025-06-24 13:49:33,972 - pdf_analyzer - INFO - <module>:3050 - Logging: All activities are logged to ./logs/ directory
+2025-06-24 13:49:33,972 - pdf_analyzer - INFO - <module>:3051 - Open your browser and go to: http://localhost:5000
+2025-06-24 13:49:33,972 - pdf_analyzer - INFO - <module>:3052 - Enhanced with Agility branding and premium design
+2025-06-24 13:49:33,972 - pdf_analyzer - INFO - <module>:3053 - ================================================================================
+2025-06-24 13:49:35,104 - pdf_analyzer - INFO - <module>:3048 - Starting PDF Forensic Analyzer Pro with enhanced UI and logging
+2025-06-24 13:49:35,104 - pdf_analyzer - INFO - <module>:3049 - Features: Comprehensive forensic analysis, intelligent table extraction, premium UI
+2025-06-24 13:49:35,104 - pdf_analyzer - INFO - <module>:3050 - Logging: All activities are logged to ./logs/ directory
+2025-06-24 13:49:35,104 - pdf_analyzer - INFO - <module>:3051 - Open your browser and go to: http://localhost:5000
+2025-06-24 13:49:35,104 - pdf_analyzer - INFO - <module>:3052 - Enhanced with Agility branding and premium design
+2025-06-24 13:49:35,105 - pdf_analyzer - INFO - <module>:3053 - ================================================================================
+2025-06-24 16:28:46,709 - pdf_analyzer - INFO - <module>:3048 - Starting PDF Forensic Analyzer Pro with enhanced UI and logging
+2025-06-24 16:28:46,709 - pdf_analyzer - INFO - <module>:3049 - Features: Comprehensive forensic analysis, intelligent table extraction, premium UI
+2025-06-24 16:28:46,709 - pdf_analyzer - INFO - <module>:3050 - Logging: All activities are logged to ./logs/ directory
+2025-06-24 16:28:46,709 - pdf_analyzer - INFO - <module>:3051 - Open your browser and go to: http://localhost:5000
+2025-06-24 16:28:46,709 - pdf_analyzer - INFO - <module>:3052 - Enhanced with Agility branding and premium design
+2025-06-24 16:28:46,709 - pdf_analyzer - INFO - <module>:3053 - ================================================================================
+2025-06-24 17:02:43,197 - pdf_analyzer - INFO - upload_file:39 - Received file upload request
+2025-06-24 17:02:43,203 - pdf_analyzer - INFO - upload_file:57 - Generated job ID: 24f4b0da-d680-41a4-a905-7420d59adf2e
+2025-06-24 17:02:43,206 - pdf_analyzer - INFO - upload_file:65 - File saved to: C:\Users\nihar\AppData\Local\Temp\tmpkbaulmj_\invoice-a00003-agility-innovations-private-limited-drop-caribbean-ltd.pdf (size: 114957 bytes)
+2025-06-24 17:02:43,207 - pdf_analyzer - INFO - process_pdf_background:92 - Starting background processing for job: 24f4b0da-d680-41a4-a905-7420d59adf2e
+2025-06-24 17:02:43,207 - pdf_analyzer - INFO - upload_file:82 - Background processing started for job: 24f4b0da-d680-41a4-a905-7420d59adf2e
+2025-06-24 17:02:43,213 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 24f4b0da-d680-41a4-a905-7420d59adf2e: processing
+2025-06-24 17:02:45,128 - pdf_analyzer - INFO - __init__:12 - Mistral OCR client initialized
+2025-06-24 17:02:45,223 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 24f4b0da-d680-41a4-a905-7420d59adf2e: processing
+2025-06-24 17:02:45,574 - pdf_analyzer - ERROR - upload_file:32 - Failed to upload file: API error occurred: Status 401
+Unauthorized
+2025-06-24 17:02:47,238 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 24f4b0da-d680-41a4-a905-7420d59adf2e: error
+2025-06-24 17:07:02,027 - pdf_analyzer - INFO - upload_file:39 - Received file upload request
+2025-06-24 17:07:02,028 - pdf_analyzer - INFO - upload_file:57 - Generated job ID: 53b9fad0-3baf-42a6-88ab-de2845062960
+2025-06-24 17:07:02,031 - pdf_analyzer - INFO - upload_file:65 - File saved to: C:\Users\nihar\AppData\Local\Temp\tmp413mozya\invoice-a00003-agility-innovations-private-limited-drop-caribbean-ltd.pdf (size: 114957 bytes)
+2025-06-24 17:07:02,032 - pdf_analyzer - INFO - process_pdf_background:92 - Starting background processing for job: 53b9fad0-3baf-42a6-88ab-de2845062960
+2025-06-24 17:07:02,032 - pdf_analyzer - INFO - upload_file:82 - Background processing started for job: 53b9fad0-3baf-42a6-88ab-de2845062960
+2025-06-24 17:07:02,048 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 53b9fad0-3baf-42a6-88ab-de2845062960: processing
+2025-06-24 17:07:02,542 - pdf_analyzer - INFO - __init__:12 - Mistral OCR client initialized
+2025-06-24 17:07:03,212 - pdf_analyzer - INFO - upload_file:28 - File uploaded to Mistral, file ID: 921549e0-59f6-46c5-9119-292c5b81b8df
+2025-06-24 17:07:03,530 - pdf_analyzer - DEBUG - get_signed_url:39 - Generated signed URL for file ID: 921549e0-59f6-46c5-9119-292c5b81b8df
+2025-06-24 17:07:04,058 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 53b9fad0-3baf-42a6-88ab-de2845062960: processing
+2025-06-24 17:07:06,078 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 53b9fad0-3baf-42a6-88ab-de2845062960: processing
+2025-06-24 17:07:06,079 - pdf_analyzer - INFO - run_ocr:58 - OCR processing completed for 1 pages
+2025-06-24 17:07:06,081 - pdf_analyzer - DEBUG - extract_tables_from_markdown:55 - Extracting tables from markdown
+2025-06-24 17:07:06,081 - pdf_analyzer - INFO - extract_tables_from_markdown:84 - Extracted 2 tables from markdown
+2025-06-24 17:07:06,081 - pdf_analyzer - INFO - process_pdf_background:166 - Extracted 2 tables from 1 pages
+2025-06-24 17:07:06,082 - pdf_analyzer - INFO - process_pdf_background:177 - Found 2 tables, starting formatting...
+2025-06-24 17:07:06,082 - pdf_analyzer - DEBUG - parse_table:89 - Parsing table with 3 lines
+2025-06-24 17:07:06,123 - pdf_analyzer - DEBUG - parse_table:190 - Successfully parsed table with 1 rows and 4 columns
+2025-06-24 17:07:06,124 - pdf_analyzer - DEBUG - save_table:195 - Saving table to C:\Users\nihar\AppData\Local\Temp\tmp413mozya\extracted_tables\formatted_table_1
+2025-06-24 17:07:07,631 - pdf_analyzer - INFO - save_table:235 - Table saved as CSV: C:\Users\nihar\AppData\Local\Temp\tmp413mozya\extracted_tables\formatted_table_1.csv and Excel: C:\Users\nihar\AppData\Local\Temp\tmp413mozya\extracted_tables\formatted_table_1.xlsx
+2025-06-24 17:07:07,639 - pdf_analyzer - INFO - process_and_serialize:259 - Successfully processed table 1
+2025-06-24 17:07:07,640 - pdf_analyzer - DEBUG - parse_table:89 - Parsing table with 6 lines
+2025-06-24 17:07:07,640 - pdf_analyzer - DEBUG - parse_table:190 - Successfully parsed table with 4 rows and 2 columns
+2025-06-24 17:07:07,640 - pdf_analyzer - DEBUG - save_table:195 - Saving table to C:\Users\nihar\AppData\Local\Temp\tmp413mozya\extracted_tables\formatted_table_2
+2025-06-24 17:07:07,659 - pdf_analyzer - INFO - save_table:235 - Table saved as CSV: C:\Users\nihar\AppData\Local\Temp\tmp413mozya\extracted_tables\formatted_table_2.csv and Excel: C:\Users\nihar\AppData\Local\Temp\tmp413mozya\extracted_tables\formatted_table_2.xlsx
+2025-06-24 17:07:07,660 - pdf_analyzer - INFO - process_and_serialize:259 - Successfully processed table 2
+2025-06-24 17:07:07,660 - pdf_analyzer - INFO - process_pdf_background:235 - Job 53b9fad0-3baf-42a6-88ab-de2845062960 completed successfully
+2025-06-24 17:07:08,092 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 53b9fad0-3baf-42a6-88ab-de2845062960: completed
+2025-06-24 17:13:13,113 - pdf_analyzer - INFO - upload_file:39 - Received file upload request
+2025-06-24 17:13:13,117 - pdf_analyzer - INFO - upload_file:57 - Generated job ID: 55ab5ba2-ad0c-427b-ad78-bd144b660226
+2025-06-24 17:13:13,124 - pdf_analyzer - INFO - upload_file:65 - File saved to: C:\Users\nihar\AppData\Local\Temp\tmpa31zo5z5\invoice-a00003-agility-innovations-private-limited-drop-caribbean-ltd.pdf (size: 114957 bytes)
+2025-06-24 17:13:13,126 - pdf_analyzer - INFO - process_pdf_background:92 - Starting background processing for job: 55ab5ba2-ad0c-427b-ad78-bd144b660226
+2025-06-24 17:13:13,127 - pdf_analyzer - INFO - upload_file:82 - Background processing started for job: 55ab5ba2-ad0c-427b-ad78-bd144b660226
+2025-06-24 17:13:13,143 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 55ab5ba2-ad0c-427b-ad78-bd144b660226: processing
+2025-06-24 17:13:14,844 - pdf_analyzer - INFO - __init__:12 - Mistral OCR client initialized
+2025-06-24 17:13:15,158 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 55ab5ba2-ad0c-427b-ad78-bd144b660226: processing
+2025-06-24 17:13:15,350 - pdf_analyzer - INFO - upload_file:28 - File uploaded to Mistral, file ID: 921549e0-59f6-46c5-9119-292c5b81b8df
+2025-06-24 17:13:15,653 - pdf_analyzer - DEBUG - get_signed_url:39 - Generated signed URL for file ID: 921549e0-59f6-46c5-9119-292c5b81b8df
+2025-06-24 17:13:17,170 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 55ab5ba2-ad0c-427b-ad78-bd144b660226: processing
+2025-06-24 17:13:19,199 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 55ab5ba2-ad0c-427b-ad78-bd144b660226: processing
+2025-06-24 17:13:19,241 - pdf_analyzer - INFO - run_ocr:58 - OCR processing completed for 1 pages
+2025-06-24 17:13:19,242 - pdf_analyzer - DEBUG - extract_tables_from_markdown:55 - Extracting tables from markdown
+2025-06-24 17:13:19,243 - pdf_analyzer - INFO - extract_tables_from_markdown:84 - Extracted 2 tables from markdown
+2025-06-24 17:13:19,243 - pdf_analyzer - INFO - process_pdf_background:166 - Extracted 2 tables from 1 pages
+2025-06-24 17:13:19,246 - pdf_analyzer - INFO - process_pdf_background:177 - Found 2 tables, starting formatting...
+2025-06-24 17:13:19,246 - pdf_analyzer - DEBUG - parse_table:89 - Parsing table with 3 lines
+2025-06-24 17:13:19,252 - pdf_analyzer - DEBUG - parse_table:190 - Successfully parsed table with 1 rows and 4 columns
+2025-06-24 17:13:19,252 - pdf_analyzer - DEBUG - save_table:195 - Saving table to C:\Users\nihar\AppData\Local\Temp\tmpa31zo5z5\extracted_tables\formatted_table_1
+2025-06-24 17:13:19,517 - pdf_analyzer - INFO - save_table:235 - Table saved as CSV: C:\Users\nihar\AppData\Local\Temp\tmpa31zo5z5\extracted_tables\formatted_table_1.csv and Excel: C:\Users\nihar\AppData\Local\Temp\tmpa31zo5z5\extracted_tables\formatted_table_1.xlsx
+2025-06-24 17:13:19,519 - pdf_analyzer - INFO - process_and_serialize:259 - Successfully processed table 1
+2025-06-24 17:13:19,520 - pdf_analyzer - DEBUG - parse_table:89 - Parsing table with 6 lines
+2025-06-24 17:13:19,521 - pdf_analyzer - DEBUG - parse_table:190 - Successfully parsed table with 4 rows and 2 columns
+2025-06-24 17:13:19,521 - pdf_analyzer - DEBUG - save_table:195 - Saving table to C:\Users\nihar\AppData\Local\Temp\tmpa31zo5z5\extracted_tables\formatted_table_2
+2025-06-24 17:13:19,542 - pdf_analyzer - INFO - save_table:235 - Table saved as CSV: C:\Users\nihar\AppData\Local\Temp\tmpa31zo5z5\extracted_tables\formatted_table_2.csv and Excel: C:\Users\nihar\AppData\Local\Temp\tmpa31zo5z5\extracted_tables\formatted_table_2.xlsx
+2025-06-24 17:13:19,543 - pdf_analyzer - INFO - process_and_serialize:259 - Successfully processed table 2
+2025-06-24 17:13:19,546 - pdf_analyzer - INFO - process_pdf_background:235 - Job 55ab5ba2-ad0c-427b-ad78-bd144b660226 completed successfully
+2025-06-24 17:13:21,214 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 55ab5ba2-ad0c-427b-ad78-bd144b660226: completed
+2025-06-24 17:31:21,083 - pdf_analyzer - INFO - upload_file:39 - Received file upload request
+2025-06-24 17:31:21,089 - pdf_analyzer - INFO - upload_file:57 - Generated job ID: 121c2ab1-a998-432c-9e4e-b2ad7caa9ff4
+2025-06-24 17:31:21,096 - pdf_analyzer - INFO - upload_file:65 - File saved to: C:\Users\nihar\AppData\Local\Temp\tmpv51esenx\invoice-a00003-agility-innovations-private-limited-drop-caribbean-ltd.pdf (size: 114957 bytes)
+2025-06-24 17:31:21,097 - pdf_analyzer - INFO - process_pdf_background:92 - Starting background processing for job: 121c2ab1-a998-432c-9e4e-b2ad7caa9ff4
+2025-06-24 17:31:21,098 - pdf_analyzer - INFO - upload_file:82 - Background processing started for job: 121c2ab1-a998-432c-9e4e-b2ad7caa9ff4
+2025-06-24 17:31:21,113 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 121c2ab1-a998-432c-9e4e-b2ad7caa9ff4: processing
+2025-06-24 17:31:22,609 - pdf_analyzer - INFO - __init__:12 - Mistral OCR client initialized
+2025-06-24 17:31:23,137 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 121c2ab1-a998-432c-9e4e-b2ad7caa9ff4: processing
+2025-06-24 17:31:23,166 - pdf_analyzer - INFO - upload_file:28 - File uploaded to Mistral, file ID: 921549e0-59f6-46c5-9119-292c5b81b8df
+2025-06-24 17:31:23,468 - pdf_analyzer - DEBUG - get_signed_url:39 - Generated signed URL for file ID: 921549e0-59f6-46c5-9119-292c5b81b8df
+2025-06-24 17:31:25,160 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 121c2ab1-a998-432c-9e4e-b2ad7caa9ff4: processing
+2025-06-24 17:31:26,003 - pdf_analyzer - INFO - run_ocr:58 - OCR processing completed for 1 pages
+2025-06-24 17:31:26,004 - pdf_analyzer - DEBUG - extract_tables_from_markdown:55 - Extracting tables from markdown
+2025-06-24 17:31:26,004 - pdf_analyzer - INFO - extract_tables_from_markdown:84 - Extracted 2 tables from markdown
+2025-06-24 17:31:26,005 - pdf_analyzer - INFO - process_pdf_background:166 - Extracted 2 tables from 1 pages
+2025-06-24 17:31:26,007 - pdf_analyzer - INFO - process_pdf_background:177 - Found 2 tables, starting formatting...
+2025-06-24 17:31:26,008 - pdf_analyzer - DEBUG - parse_table:89 - Parsing table with 3 lines
+2025-06-24 17:31:26,015 - pdf_analyzer - DEBUG - parse_table:190 - Successfully parsed table with 1 rows and 4 columns
+2025-06-24 17:31:26,015 - pdf_analyzer - DEBUG - save_table:195 - Saving table to C:\Users\nihar\AppData\Local\Temp\tmpv51esenx\extracted_tables\formatted_table_1
+2025-06-24 17:31:26,409 - pdf_analyzer - INFO - save_table:235 - Table saved as CSV: C:\Users\nihar\AppData\Local\Temp\tmpv51esenx\extracted_tables\formatted_table_1.csv and Excel: C:\Users\nihar\AppData\Local\Temp\tmpv51esenx\extracted_tables\formatted_table_1.xlsx
+2025-06-24 17:31:26,412 - pdf_analyzer - INFO - process_and_serialize:259 - Successfully processed table 1
+2025-06-24 17:31:26,412 - pdf_analyzer - DEBUG - parse_table:89 - Parsing table with 6 lines
+2025-06-24 17:31:26,414 - pdf_analyzer - DEBUG - parse_table:190 - Successfully parsed table with 4 rows and 2 columns
+2025-06-24 17:31:26,414 - pdf_analyzer - DEBUG - save_table:195 - Saving table to C:\Users\nihar\AppData\Local\Temp\tmpv51esenx\extracted_tables\formatted_table_2
+2025-06-24 17:31:26,440 - pdf_analyzer - INFO - save_table:235 - Table saved as CSV: C:\Users\nihar\AppData\Local\Temp\tmpv51esenx\extracted_tables\formatted_table_2.csv and Excel: C:\Users\nihar\AppData\Local\Temp\tmpv51esenx\extracted_tables\formatted_table_2.xlsx
+2025-06-24 17:31:26,441 - pdf_analyzer - INFO - process_and_serialize:259 - Successfully processed table 2
+2025-06-24 17:31:26,445 - pdf_analyzer - INFO - process_pdf_background:235 - Job 121c2ab1-a998-432c-9e4e-b2ad7caa9ff4 completed successfully
+2025-06-24 17:31:27,193 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 121c2ab1-a998-432c-9e4e-b2ad7caa9ff4: completed
+2025-06-24 17:33:13,305 - pdf_analyzer - INFO - upload_file:39 - Received file upload request
+2025-06-24 17:33:13,309 - pdf_analyzer - INFO - upload_file:57 - Generated job ID: cd3378b1-d0bc-48c7-9714-fd41a9fe0e81
+2025-06-24 17:33:13,314 - pdf_analyzer - INFO - upload_file:65 - File saved to: C:\Users\nihar\AppData\Local\Temp\tmpw187f8at\invoice-a00001-agility-innovations-private-limited-bacancy-technology-inc_1_1.pdf (size: 116211 bytes)
+2025-06-24 17:33:13,315 - pdf_analyzer - INFO - process_pdf_background:92 - Starting background processing for job: cd3378b1-d0bc-48c7-9714-fd41a9fe0e81
+2025-06-24 17:33:13,316 - pdf_analyzer - INFO - upload_file:82 - Background processing started for job: cd3378b1-d0bc-48c7-9714-fd41a9fe0e81
+2025-06-24 17:33:13,327 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job cd3378b1-d0bc-48c7-9714-fd41a9fe0e81: processing
+2025-06-24 17:33:14,309 - pdf_analyzer - INFO - __init__:12 - Mistral OCR client initialized
+2025-06-24 17:33:14,905 - pdf_analyzer - INFO - upload_file:28 - File uploaded to Mistral, file ID: 4baba839-574b-4c6d-b79d-2b5acb9c29ea
+2025-06-24 17:33:15,163 - pdf_analyzer - DEBUG - get_signed_url:39 - Generated signed URL for file ID: 4baba839-574b-4c6d-b79d-2b5acb9c29ea
+2025-06-24 17:33:15,344 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job cd3378b1-d0bc-48c7-9714-fd41a9fe0e81: processing
+2025-06-24 17:33:17,371 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job cd3378b1-d0bc-48c7-9714-fd41a9fe0e81: processing
+2025-06-24 17:33:18,640 - pdf_analyzer - INFO - run_ocr:58 - OCR processing completed for 1 pages
+2025-06-24 17:33:18,640 - pdf_analyzer - DEBUG - extract_tables_from_markdown:55 - Extracting tables from markdown
+2025-06-24 17:33:18,640 - pdf_analyzer - INFO - extract_tables_from_markdown:84 - Extracted 2 tables from markdown
+2025-06-24 17:33:18,641 - pdf_analyzer - INFO - process_pdf_background:166 - Extracted 2 tables from 1 pages
+2025-06-24 17:33:18,643 - pdf_analyzer - INFO - process_pdf_background:177 - Found 2 tables, starting formatting...
+2025-06-24 17:33:18,643 - pdf_analyzer - DEBUG - parse_table:89 - Parsing table with 3 lines
+2025-06-24 17:33:18,647 - pdf_analyzer - DEBUG - parse_table:190 - Successfully parsed table with 1 rows and 4 columns
+2025-06-24 17:33:18,648 - pdf_analyzer - DEBUG - save_table:195 - Saving table to C:\Users\nihar\AppData\Local\Temp\tmpw187f8at\extracted_tables\formatted_table_1
+2025-06-24 17:33:18,697 - pdf_analyzer - INFO - save_table:235 - Table saved as CSV: C:\Users\nihar\AppData\Local\Temp\tmpw187f8at\extracted_tables\formatted_table_1.csv and Excel: C:\Users\nihar\AppData\Local\Temp\tmpw187f8at\extracted_tables\formatted_table_1.xlsx
+2025-06-24 17:33:18,698 - pdf_analyzer - INFO - process_and_serialize:259 - Successfully processed table 1
+2025-06-24 17:33:18,698 - pdf_analyzer - DEBUG - parse_table:89 - Parsing table with 6 lines
+2025-06-24 17:33:18,700 - pdf_analyzer - DEBUG - parse_table:190 - Successfully parsed table with 4 rows and 2 columns
+2025-06-24 17:33:18,700 - pdf_analyzer - DEBUG - save_table:195 - Saving table to C:\Users\nihar\AppData\Local\Temp\tmpw187f8at\extracted_tables\formatted_table_2
+2025-06-24 17:33:18,723 - pdf_analyzer - INFO - save_table:235 - Table saved as CSV: C:\Users\nihar\AppData\Local\Temp\tmpw187f8at\extracted_tables\formatted_table_2.csv and Excel: C:\Users\nihar\AppData\Local\Temp\tmpw187f8at\extracted_tables\formatted_table_2.xlsx
+2025-06-24 17:33:18,724 - pdf_analyzer - INFO - process_and_serialize:259 - Successfully processed table 2
+2025-06-24 17:33:18,727 - pdf_analyzer - INFO - process_pdf_background:235 - Job cd3378b1-d0bc-48c7-9714-fd41a9fe0e81 completed successfully
+2025-06-24 17:33:19,385 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job cd3378b1-d0bc-48c7-9714-fd41a9fe0e81: completed
+2025-06-24 17:33:48,047 - pdf_analyzer - INFO - upload_file:39 - Received file upload request
+2025-06-24 17:33:48,051 - pdf_analyzer - INFO - upload_file:57 - Generated job ID: 7de84877-8346-461f-8d45-b1756460a89c
+2025-06-24 17:33:48,056 - pdf_analyzer - INFO - upload_file:65 - File saved to: C:\Users\nihar\AppData\Local\Temp\tmp13h5lcje\60109243_1.pdf (size: 60908 bytes)
+2025-06-24 17:33:48,056 - pdf_analyzer - INFO - process_pdf_background:92 - Starting background processing for job: 7de84877-8346-461f-8d45-b1756460a89c
+2025-06-24 17:33:48,057 - pdf_analyzer - INFO - upload_file:82 - Background processing started for job: 7de84877-8346-461f-8d45-b1756460a89c
+2025-06-24 17:33:48,069 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 7de84877-8346-461f-8d45-b1756460a89c: processing
+2025-06-24 17:33:49,436 - pdf_analyzer - INFO - __init__:12 - Mistral OCR client initialized
+2025-06-24 17:33:50,058 - pdf_analyzer - INFO - upload_file:28 - File uploaded to Mistral, file ID: 2fd9e595-c1f8-43b9-a929-0e19c55d2e17
+2025-06-24 17:33:50,082 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 7de84877-8346-461f-8d45-b1756460a89c: processing
+2025-06-24 17:33:50,292 - pdf_analyzer - DEBUG - get_signed_url:39 - Generated signed URL for file ID: 2fd9e595-c1f8-43b9-a929-0e19c55d2e17
+2025-06-24 17:33:52,092 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 7de84877-8346-461f-8d45-b1756460a89c: processing
+2025-06-24 17:33:54,109 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 7de84877-8346-461f-8d45-b1756460a89c: processing
+2025-06-24 17:33:55,042 - pdf_analyzer - INFO - run_ocr:58 - OCR processing completed for 1 pages
+2025-06-24 17:33:55,043 - pdf_analyzer - DEBUG - extract_tables_from_markdown:55 - Extracting tables from markdown
+2025-06-24 17:33:55,043 - pdf_analyzer - INFO - extract_tables_from_markdown:84 - Extracted 3 tables from markdown
+2025-06-24 17:33:55,044 - pdf_analyzer - INFO - process_pdf_background:166 - Extracted 3 tables from 1 pages
+2025-06-24 17:33:55,044 - pdf_analyzer - INFO - process_pdf_background:177 - Found 3 tables, starting formatting...
+2025-06-24 17:33:55,046 - pdf_analyzer - DEBUG - parse_table:89 - Parsing table with 7 lines
+2025-06-24 17:33:55,048 - pdf_analyzer - DEBUG - parse_table:190 - Successfully parsed table with 5 rows and 5 columns
+2025-06-24 17:33:55,048 - pdf_analyzer - DEBUG - save_table:195 - Saving table to C:\Users\nihar\AppData\Local\Temp\tmp13h5lcje\extracted_tables\formatted_table_1
+2025-06-24 17:33:55,099 - pdf_analyzer - INFO - save_table:235 - Table saved as CSV: C:\Users\nihar\AppData\Local\Temp\tmp13h5lcje\extracted_tables\formatted_table_1.csv and Excel: C:\Users\nihar\AppData\Local\Temp\tmp13h5lcje\extracted_tables\formatted_table_1.xlsx
+2025-06-24 17:33:55,100 - pdf_analyzer - INFO - process_and_serialize:259 - Successfully processed table 1
+2025-06-24 17:33:55,100 - pdf_analyzer - DEBUG - parse_table:89 - Parsing table with 3 lines
+2025-06-24 17:33:55,106 - pdf_analyzer - DEBUG - parse_table:190 - Successfully parsed table with 0 rows and 2 columns
+2025-06-24 17:33:55,106 - pdf_analyzer - DEBUG - parse_table:89 - Parsing table with 14 lines
+2025-06-24 17:33:55,108 - pdf_analyzer - DEBUG - parse_table:190 - Successfully parsed table with 12 rows and 2 columns
+2025-06-24 17:33:55,108 - pdf_analyzer - DEBUG - save_table:195 - Saving table to C:\Users\nihar\AppData\Local\Temp\tmp13h5lcje\extracted_tables\formatted_table_3
+2025-06-24 17:33:55,152 - pdf_analyzer - INFO - save_table:235 - Table saved as CSV: C:\Users\nihar\AppData\Local\Temp\tmp13h5lcje\extracted_tables\formatted_table_3.csv and Excel: C:\Users\nihar\AppData\Local\Temp\tmp13h5lcje\extracted_tables\formatted_table_3.xlsx
+2025-06-24 17:33:55,153 - pdf_analyzer - INFO - process_and_serialize:259 - Successfully processed table 3
+2025-06-24 17:33:55,156 - pdf_analyzer - INFO - process_pdf_background:235 - Job 7de84877-8346-461f-8d45-b1756460a89c completed successfully
+2025-06-24 17:33:56,135 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 7de84877-8346-461f-8d45-b1756460a89c: completed
+2025-06-24 17:34:27,544 - pdf_analyzer - INFO - upload_file:39 - Received file upload request
+2025-06-24 17:34:27,555 - pdf_analyzer - INFO - upload_file:57 - Generated job ID: 13bae8ee-87a8-4c0f-b6f6-c8e347b5ec63
+2025-06-24 17:34:27,558 - pdf_analyzer - INFO - upload_file:65 - File saved to: C:\Users\nihar\AppData\Local\Temp\tmplbmzx0j_\GST_Registration_Certificate.pdf (size: 183503 bytes)
+2025-06-24 17:34:27,559 - pdf_analyzer - INFO - process_pdf_background:92 - Starting background processing for job: 13bae8ee-87a8-4c0f-b6f6-c8e347b5ec63
+2025-06-24 17:34:27,560 - pdf_analyzer - INFO - upload_file:82 - Background processing started for job: 13bae8ee-87a8-4c0f-b6f6-c8e347b5ec63
+2025-06-24 17:34:27,572 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 13bae8ee-87a8-4c0f-b6f6-c8e347b5ec63: processing
+2025-06-24 17:34:28,722 - pdf_analyzer - INFO - __init__:12 - Mistral OCR client initialized
+2025-06-24 17:34:29,596 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 13bae8ee-87a8-4c0f-b6f6-c8e347b5ec63: processing
+2025-06-24 17:34:29,742 - pdf_analyzer - INFO - upload_file:28 - File uploaded to Mistral, file ID: a697ab95-86b2-48f8-9aa7-16fae80b9482
+2025-06-24 17:34:29,992 - pdf_analyzer - DEBUG - get_signed_url:39 - Generated signed URL for file ID: a697ab95-86b2-48f8-9aa7-16fae80b9482
+2025-06-24 17:34:31,611 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 13bae8ee-87a8-4c0f-b6f6-c8e347b5ec63: processing
+2025-06-24 17:34:33,631 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 13bae8ee-87a8-4c0f-b6f6-c8e347b5ec63: processing
+2025-06-24 17:34:34,808 - pdf_analyzer - INFO - run_ocr:58 - OCR processing completed for 3 pages
+2025-06-24 17:34:34,809 - pdf_analyzer - DEBUG - extract_tables_from_markdown:55 - Extracting tables from markdown
+2025-06-24 17:34:34,809 - pdf_analyzer - INFO - extract_tables_from_markdown:84 - Extracted 1 tables from markdown
+2025-06-24 17:34:34,810 - pdf_analyzer - DEBUG - extract_tables_from_markdown:55 - Extracting tables from markdown
+2025-06-24 17:34:34,810 - pdf_analyzer - INFO - extract_tables_from_markdown:84 - Extracted 1 tables from markdown
+2025-06-24 17:34:34,810 - pdf_analyzer - DEBUG - extract_tables_from_markdown:55 - Extracting tables from markdown
+2025-06-24 17:34:34,810 - pdf_analyzer - INFO - extract_tables_from_markdown:84 - Extracted 2 tables from markdown
+2025-06-24 17:34:34,811 - pdf_analyzer - INFO - process_pdf_background:166 - Extracted 4 tables from 3 pages
+2025-06-24 17:34:34,811 - pdf_analyzer - INFO - process_pdf_background:177 - Found 4 tables, starting formatting...
+2025-06-24 17:34:34,811 - pdf_analyzer - DEBUG - parse_table:89 - Parsing table with 17 lines
+2025-06-24 17:34:34,815 - pdf_analyzer - DEBUG - parse_table:190 - Successfully parsed table with 15 rows and 3 columns
+2025-06-24 17:34:34,815 - pdf_analyzer - DEBUG - save_table:195 - Saving table to C:\Users\nihar\AppData\Local\Temp\tmplbmzx0j_\extracted_tables\formatted_table_1
+2025-06-24 17:34:34,864 - pdf_analyzer - INFO - save_table:235 - Table saved as CSV: C:\Users\nihar\AppData\Local\Temp\tmplbmzx0j_\extracted_tables\formatted_table_1.csv and Excel: C:\Users\nihar\AppData\Local\Temp\tmplbmzx0j_\extracted_tables\formatted_table_1.xlsx
+2025-06-24 17:34:34,865 - pdf_analyzer - INFO - process_and_serialize:259 - Successfully processed table 1
+2025-06-24 17:34:34,867 - pdf_analyzer - DEBUG - parse_table:89 - Parsing table with 3 lines
+2025-06-24 17:34:34,867 - pdf_analyzer - DEBUG - parse_table:190 - Successfully parsed table with 1 rows and 2 columns
+2025-06-24 17:34:34,868 - pdf_analyzer - DEBUG - save_table:195 - Saving table to C:\Users\nihar\AppData\Local\Temp\tmplbmzx0j_\extracted_tables\formatted_table_2
+2025-06-24 17:34:34,904 - pdf_analyzer - INFO - save_table:235 - Table saved as CSV: C:\Users\nihar\AppData\Local\Temp\tmplbmzx0j_\extracted_tables\formatted_table_2.csv and Excel: C:\Users\nihar\AppData\Local\Temp\tmplbmzx0j_\extracted_tables\formatted_table_2.xlsx
+2025-06-24 17:34:34,906 - pdf_analyzer - INFO - process_and_serialize:259 - Successfully processed table 2
+2025-06-24 17:34:34,906 - pdf_analyzer - DEBUG - parse_table:89 - Parsing table with 3 lines
+2025-06-24 17:34:34,907 - pdf_analyzer - DEBUG - parse_table:190 - Successfully parsed table with 1 rows and 2 columns
+2025-06-24 17:34:34,907 - pdf_analyzer - DEBUG - save_table:195 - Saving table to C:\Users\nihar\AppData\Local\Temp\tmplbmzx0j_\extracted_tables\formatted_table_3
+2025-06-24 17:34:34,929 - pdf_analyzer - INFO - save_table:235 - Table saved as CSV: C:\Users\nihar\AppData\Local\Temp\tmplbmzx0j_\extracted_tables\formatted_table_3.csv and Excel: C:\Users\nihar\AppData\Local\Temp\tmplbmzx0j_\extracted_tables\formatted_table_3.xlsx
+2025-06-24 17:34:34,931 - pdf_analyzer - INFO - process_and_serialize:259 - Successfully processed table 3
+2025-06-24 17:34:34,931 - pdf_analyzer - DEBUG - parse_table:89 - Parsing table with 7 lines
+2025-06-24 17:34:34,933 - pdf_analyzer - DEBUG - parse_table:190 - Successfully parsed table with 5 rows and 3 columns
+2025-06-24 17:34:34,933 - pdf_analyzer - DEBUG - save_table:195 - Saving table to C:\Users\nihar\AppData\Local\Temp\tmplbmzx0j_\extracted_tables\formatted_table_4
+2025-06-24 17:34:34,978 - pdf_analyzer - INFO - save_table:235 - Table saved as CSV: C:\Users\nihar\AppData\Local\Temp\tmplbmzx0j_\extracted_tables\formatted_table_4.csv and Excel: C:\Users\nihar\AppData\Local\Temp\tmplbmzx0j_\extracted_tables\formatted_table_4.xlsx
+2025-06-24 17:34:34,979 - pdf_analyzer - INFO - process_and_serialize:259 - Successfully processed table 4
+2025-06-24 17:34:34,983 - pdf_analyzer - INFO - process_pdf_background:235 - Job 13bae8ee-87a8-4c0f-b6f6-c8e347b5ec63 completed successfully
+2025-06-24 17:34:35,650 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 13bae8ee-87a8-4c0f-b6f6-c8e347b5ec63: completed
+2025-06-24 17:36:42,065 - pdf_analyzer - INFO - upload_file:39 - Received file upload request
+2025-06-24 17:36:42,072 - pdf_analyzer - INFO - upload_file:57 - Generated job ID: ccd636b6-a516-466d-8ebb-c70bd4cb96db
+2025-06-24 17:36:42,079 - pdf_analyzer - INFO - upload_file:65 - File saved to: C:\Users\nihar\AppData\Local\Temp\tmplq196st6\overall_recommendations.pdf (size: 93679 bytes)
+2025-06-24 17:36:42,080 - pdf_analyzer - INFO - process_pdf_background:92 - Starting background processing for job: ccd636b6-a516-466d-8ebb-c70bd4cb96db
+2025-06-24 17:36:42,080 - pdf_analyzer - INFO - upload_file:82 - Background processing started for job: ccd636b6-a516-466d-8ebb-c70bd4cb96db
+2025-06-24 17:36:42,098 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job ccd636b6-a516-466d-8ebb-c70bd4cb96db: processing
+2025-06-24 17:36:43,536 - pdf_analyzer - INFO - __init__:12 - Mistral OCR client initialized
+2025-06-24 17:36:44,110 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job ccd636b6-a516-466d-8ebb-c70bd4cb96db: processing
+2025-06-24 17:36:44,175 - pdf_analyzer - INFO - upload_file:28 - File uploaded to Mistral, file ID: b2467ad8-d526-4c00-9d57-5bb61aac29a4
+2025-06-24 17:36:44,491 - pdf_analyzer - DEBUG - get_signed_url:39 - Generated signed URL for file ID: b2467ad8-d526-4c00-9d57-5bb61aac29a4
+2025-06-24 17:36:46,123 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job ccd636b6-a516-466d-8ebb-c70bd4cb96db: processing
+2025-06-24 17:36:48,145 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job ccd636b6-a516-466d-8ebb-c70bd4cb96db: processing
+2025-06-24 17:36:48,903 - pdf_analyzer - INFO - run_ocr:58 - OCR processing completed for 5 pages
+2025-06-24 17:36:48,904 - pdf_analyzer - DEBUG - extract_tables_from_markdown:55 - Extracting tables from markdown
+2025-06-24 17:36:48,905 - pdf_analyzer - INFO - extract_tables_from_markdown:84 - Extracted 0 tables from markdown
+2025-06-24 17:36:48,906 - pdf_analyzer - DEBUG - extract_tables_from_markdown:55 - Extracting tables from markdown
+2025-06-24 17:36:48,906 - pdf_analyzer - INFO - extract_tables_from_markdown:84 - Extracted 0 tables from markdown
+2025-06-24 17:36:48,907 - pdf_analyzer - DEBUG - extract_tables_from_markdown:55 - Extracting tables from markdown
+2025-06-24 17:36:48,907 - pdf_analyzer - INFO - extract_tables_from_markdown:84 - Extracted 0 tables from markdown
+2025-06-24 17:36:48,908 - pdf_analyzer - DEBUG - extract_tables_from_markdown:55 - Extracting tables from markdown
+2025-06-24 17:36:48,908 - pdf_analyzer - INFO - extract_tables_from_markdown:84 - Extracted 0 tables from markdown
+2025-06-24 17:36:48,908 - pdf_analyzer - DEBUG - extract_tables_from_markdown:55 - Extracting tables from markdown
+2025-06-24 17:36:48,909 - pdf_analyzer - INFO - extract_tables_from_markdown:84 - Extracted 0 tables from markdown
+2025-06-24 17:36:48,909 - pdf_analyzer - INFO - process_pdf_background:166 - Extracted 0 tables from 5 pages
+2025-06-24 17:36:48,910 - pdf_analyzer - INFO - process_pdf_background:184 - No tables found for formatting
+2025-06-24 17:36:48,914 - pdf_analyzer - INFO - process_pdf_background:235 - Job ccd636b6-a516-466d-8ebb-c70bd4cb96db completed successfully
+2025-06-24 17:36:50,168 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job ccd636b6-a516-466d-8ebb-c70bd4cb96db: completed

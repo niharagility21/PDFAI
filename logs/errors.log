@@ -1,0 +1,13 @@
+2025-06-24 17:02:45,576 - errors - ERROR - process_pdf_background:238 - Error in job 24f4b0da-d680-41a4-a905-7420d59adf2e: API error occurred: Status 401
+Unauthorized
+Traceback (most recent call last):
+  File "C:\Users\nihar\OneDrive\Desktop\Agility\coding\pdfai\pdfai\pdf_analyzer\routes.py", line 136, in process_pdf_background
+    uploaded = ocr_client.upload_file(file_path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nihar\OneDrive\Desktop\Agility\coding\pdfai\pdfai\utils\ocr_client.py", line 20, in upload_file
+    uploaded = self.client.files.upload(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nihar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\mistralai\files.py", line 101, in upload
+    raise models.SDKError(
+mistralai.models.sdkerror.SDKError: API error occurred: Status 401
+Unauthorized
