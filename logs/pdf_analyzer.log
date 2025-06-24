@@ -241,3 +241,31 @@ Unauthorized
 2025-06-24 17:36:48,910 - pdf_analyzer - INFO - process_pdf_background:184 - No tables found for formatting
 2025-06-24 17:36:48,914 - pdf_analyzer - INFO - process_pdf_background:235 - Job ccd636b6-a516-466d-8ebb-c70bd4cb96db completed successfully
 2025-06-24 17:36:50,168 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job ccd636b6-a516-466d-8ebb-c70bd4cb96db: completed
+2025-06-24 18:20:05,265 - pdf_analyzer - INFO - upload_file:39 - Received file upload request
+2025-06-24 18:20:05,266 - pdf_analyzer - INFO - upload_file:57 - Generated job ID: 76474fa6-2d80-41a7-889d-e76ec8e42636
+2025-06-24 18:20:05,268 - pdf_analyzer - INFO - upload_file:65 - File saved to: C:\Users\nihar\AppData\Local\Temp\tmphgjkh1d5\invoice-a00003-agility-innovations-private-limited-drop-caribbean-ltd.pdf (size: 114957 bytes)
+2025-06-24 18:20:05,268 - pdf_analyzer - INFO - process_pdf_background:92 - Starting background processing for job: 76474fa6-2d80-41a7-889d-e76ec8e42636
+2025-06-24 18:20:05,268 - pdf_analyzer - INFO - upload_file:82 - Background processing started for job: 76474fa6-2d80-41a7-889d-e76ec8e42636
+2025-06-24 18:20:05,274 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 76474fa6-2d80-41a7-889d-e76ec8e42636: processing
+2025-06-24 18:20:05,806 - pdf_analyzer - INFO - __init__:12 - Mistral OCR client initialized
+2025-06-24 18:20:06,424 - pdf_analyzer - INFO - upload_file:28 - File uploaded to Mistral, file ID: 921549e0-59f6-46c5-9119-292c5b81b8df
+2025-06-24 18:20:06,726 - pdf_analyzer - DEBUG - get_signed_url:39 - Generated signed URL for file ID: 921549e0-59f6-46c5-9119-292c5b81b8df
+2025-06-24 18:20:07,289 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 76474fa6-2d80-41a7-889d-e76ec8e42636: processing
+2025-06-24 18:20:09,305 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 76474fa6-2d80-41a7-889d-e76ec8e42636: processing
+2025-06-24 18:20:10,584 - pdf_analyzer - INFO - run_ocr:58 - OCR processing completed for 1 pages
+2025-06-24 18:20:10,584 - pdf_analyzer - DEBUG - extract_tables_from_markdown:55 - Extracting tables from markdown
+2025-06-24 18:20:10,584 - pdf_analyzer - INFO - extract_tables_from_markdown:84 - Extracted 2 tables from markdown
+2025-06-24 18:20:10,584 - pdf_analyzer - INFO - process_pdf_background:166 - Extracted 2 tables from 1 pages
+2025-06-24 18:20:10,586 - pdf_analyzer - INFO - process_pdf_background:177 - Found 2 tables, starting formatting...
+2025-06-24 18:20:10,586 - pdf_analyzer - DEBUG - parse_table:89 - Parsing table with 3 lines
+2025-06-24 18:20:10,589 - pdf_analyzer - DEBUG - parse_table:190 - Successfully parsed table with 1 rows and 4 columns
+2025-06-24 18:20:10,589 - pdf_analyzer - DEBUG - save_table:195 - Saving table to C:\Users\nihar\AppData\Local\Temp\tmphgjkh1d5\extracted_tables\formatted_table_1
+2025-06-24 18:20:10,723 - pdf_analyzer - INFO - save_table:235 - Table saved as CSV: C:\Users\nihar\AppData\Local\Temp\tmphgjkh1d5\extracted_tables\formatted_table_1.csv and Excel: C:\Users\nihar\AppData\Local\Temp\tmphgjkh1d5\extracted_tables\formatted_table_1.xlsx
+2025-06-24 18:20:10,725 - pdf_analyzer - INFO - process_and_serialize:259 - Successfully processed table 1
+2025-06-24 18:20:10,726 - pdf_analyzer - DEBUG - parse_table:89 - Parsing table with 6 lines
+2025-06-24 18:20:10,726 - pdf_analyzer - DEBUG - parse_table:190 - Successfully parsed table with 4 rows and 2 columns
+2025-06-24 18:20:10,726 - pdf_analyzer - DEBUG - save_table:195 - Saving table to C:\Users\nihar\AppData\Local\Temp\tmphgjkh1d5\extracted_tables\formatted_table_2
+2025-06-24 18:20:10,736 - pdf_analyzer - INFO - save_table:235 - Table saved as CSV: C:\Users\nihar\AppData\Local\Temp\tmphgjkh1d5\extracted_tables\formatted_table_2.csv and Excel: C:\Users\nihar\AppData\Local\Temp\tmphgjkh1d5\extracted_tables\formatted_table_2.xlsx
+2025-06-24 18:20:10,738 - pdf_analyzer - INFO - process_and_serialize:259 - Successfully processed table 2
+2025-06-24 18:20:10,739 - pdf_analyzer - INFO - process_pdf_background:235 - Job 76474fa6-2d80-41a7-889d-e76ec8e42636 completed successfully
+2025-06-24 18:20:11,321 - pdf_analyzer - DEBUG - get_status:260 - Returning status for job 76474fa6-2d80-41a7-889d-e76ec8e42636: completed
