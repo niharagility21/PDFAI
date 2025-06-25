@@ -386,3 +386,8 @@ def robots_txt():
 def sitemap_xml():
     """Serve sitemap.xml for SEO."""
     return send_from_directory(current_app.static_folder, 'sitemap.xml')
+
+@pdf_bp.route('/extract-tables-from-pdf')
+def extract_tables_from_pdf():
+    """Extract tables from PDF page."""
+    return render_template('extract-tables-from-pdf.html')
