@@ -7,7 +7,7 @@ import traceback
 import zipfile
 import shutil
 from werkzeug.utils import secure_filename
-from flask import Blueprint, render_template, request, jsonify, send_file, flash
+from flask import Blueprint, render_template, request, jsonify, send_file, flash, send_from_directory, current_app
 import pandas as pd
 import numpy as np
 import logging
@@ -376,3 +376,13 @@ def download_file(job_id, file_type):
     except Exception as e:
         error_logger.error(f"Error downloading file: {e}", exc_info=True)
         return f"Error downloading file: {str(e)}", 500
+    
+@pdf_bp.route('/robots.txt')
+def robots_txt():
+    """Serve robots.txt for SEO."""
+    return send_from_directory(current_app.static_folder, 'robots.txt')
+
+@pdf_bp.route('/sitemap.xml')
+def sitemap_xml():
+    """Serve sitemap.xml for SEO."""
+    return send_from_directory(current_app.static_folder, 'sitemap.xml')

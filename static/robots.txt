@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /download/
+Disallow: /status/
+Disallow: /upload
+
+Sitemap: https://pdfanalyser.com/sitemap.xml

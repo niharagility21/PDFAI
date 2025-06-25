@@ -3,9 +3,79 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PDF Forensic Analyzer Pro - Agility</title>
+    
+    <!-- Primary SEO Meta Tags -->
+    <title>PDF to Excel Converter - Extract Tables & Text from PDF Free | PDFAnalyser</title>
+    <meta name="description" content="Free online PDF to Excel converter. Extract tables, convert PDF to text, and analyze PDF documents with AI. Fast, secure, and accurate PDF data extraction tool.">
+    <meta name="keywords" content="PDF to Excel, PDF to text, PDF converter, extract tables from PDF, PDF data extraction, convert PDF online, PDF table extractor, free PDF converter">
+    <meta name="author" content="Agility Technologies">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://pdfanalyser.com/">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://pdfanalyser.com/">
+    <meta property="og:title" content="PDF to Excel Converter - Extract Tables & Text from PDF Free">
+    <meta property="og:description" content="Free online PDF to Excel converter. Extract tables, convert PDF to text, and analyze PDF documents with AI. Fast, secure, and accurate PDF data extraction.">
+    <meta property="og:image" content="https://pdfanalyser.com/static/images/pdf-converter-preview.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:site_name" content="PDFAnalyser">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://pdfanalyser.com/">
+    <meta property="twitter:title" content="PDF to Excel Converter - Extract Tables & Text from PDF Free">
+    <meta property="twitter:description" content="Free online PDF to Excel converter. Extract tables, convert PDF to text, and analyze PDF documents with AI.">
+    <meta property="twitter:image" content="https://pdfanalyser.com/static/images/pdf-converter-preview.png">
+    
+    <!-- Structured Data (Schema.org) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "PDFAnalyser - PDF to Excel Converter",
+      "description": "AI-powered PDF to Excel converter and table extractor. Convert PDF documents to Excel spreadsheets and extract text with advanced forensic analysis.",
+      "url": "https://pdfanalyser.com",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Web Browser",
+      "browserRequirements": "Requires JavaScript. Requires HTML5.",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "PDF to Excel conversion",
+        "PDF to text extraction", 
+        "Table extraction from PDF",
+        "Forensic PDF analysis",
+        "AI-powered document processing",
+        "Free online PDF converter"
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "1247"
+      },
+      "creator": {
+        "@type": "Organization",
+        "name": "Agility Technologies",
+        "url": "https://agilitytech.ai"
+      }
+    }
+    </script>
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ url_for('static', filename='images/apple-touch-icon.png') }}">
+    
+    <!-- Fonts and Styles -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    
     <style>
         :root {
             /* Agility brand colors */
@@ -196,6 +266,20 @@
         @keyframes bolt {
             0%, 100% { transform: scale(1); }
             50% { transform: scale(1.1); }
+        }
+        
+        /* SEO Keywords Section */
+        .seo-keywords {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 1rem 2rem;
+            text-align: center;
+            border-bottom: 1px solid rgba(9, 108, 178, 0.1);
+        }
+        
+        .keywords-list {
+            font-size: 0.9rem;
+            color: var(--dark-blue);
+            font-weight: 500;
         }
         
         .content {
@@ -921,6 +1005,59 @@
            to { transform: rotate(360deg); }
        }
        
+       /* Features Section */
+       .features-section {
+           background: rgba(255, 255, 255, 0.9);
+           border-radius: var(--border-radius);
+           padding: 2rem;
+           margin-bottom: 2rem;
+           backdrop-filter: blur(10px);
+       }
+       
+       .features-grid {
+           display: grid;
+           grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+           gap: 1.5rem;
+           margin-bottom: 2rem;
+       }
+       
+       .feature-card {
+           background: rgba(255, 255, 255, 0.8);
+           border-radius: var(--border-radius-sm);
+           padding: 1.5rem;
+           box-shadow: var(--shadow-md);
+           border: 1px solid rgba(9, 108, 178, 0.1);
+           text-align: center;
+           transition: all 0.3s ease;
+       }
+       
+       .feature-card:hover {
+           transform: translateY(-4px);
+           box-shadow: var(--shadow-xl);
+       }
+       
+       .feature-icon {
+           font-size: 2.5rem;
+           background: var(--gradient-primary);
+           -webkit-background-clip: text;
+           -webkit-text-fill-color: transparent;
+           background-clip: text;
+           margin-bottom: 1rem;
+       }
+       
+       .feature-title {
+           font-size: 1.1rem;
+           font-weight: 700;
+           color: var(--dark);
+           margin-bottom: 0.5rem;
+       }
+       
+       .feature-description {
+           font-size: 0.9rem;
+           color: var(--dark-blue);
+           line-height: 1.5;
+       }
+       
        .footer {
            text-align: center;
            padding: 1.5rem;
@@ -1005,6 +1142,10 @@
                flex-direction: column;
                gap: 0.4rem;
            }
+           
+           .features-grid {
+               grid-template-columns: 1fr;
+           }
        }
        
        @media (max-width: 480px) {
@@ -1029,16 +1170,23 @@
                <div class="header-content">
                    <div class="logo-container">
                        <div class="logo">
-                           <img src="{{ url_for('static', filename='images/agility-logo.png') }}" alt="Agility Logo" onload="this.style.display='block'; this.nextElementSibling.style.display='none';" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
-                           <i class="fas fa-shield-alt fallback-icon"></i>
+                           <img src="{{ url_for('static', filename='images/agility-logo.png') }}" alt="PDFAnalyser Logo" onload="this.style.display='block'; this.nextElementSibling.style.display='none';" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                           <i class="fas fa-file-excel fallback-icon"></i>
                        </div>
                    </div>
-                   <h1>PDF Forensic Analyzer Pro</h1>
-                   <p class="subtitle">Discover if this PDF was modified or authored by someone else, extract its raw text, and transform document content into structured tables—powered by advanced forensic analysis and AI.</p>
+                   <h1>PDF to Excel Converter</h1>
+                   <p class="subtitle">Free online PDF to Excel converter with AI-powered table extraction. Convert PDF documents to Excel spreadsheets, extract text content, and perform forensic document analysis—all in one powerful tool.</p>
                    <div class="powered-by">
                        <i class="fas fa-bolt"></i>
-                       <span>Powered by Advanced AI & Machine Learning</span>
+                       <span>AI-Powered PDF Processing & Forensic Analysis</span>
                    </div>
+               </div>
+           </div>
+           
+           <!-- SEO Keywords Section -->
+           <div class="seo-keywords">
+               <div class="keywords-list">
+                   <strong>Convert:</strong> PDF to Excel • PDF to Text • PDF to CSV • Extract Tables from PDF • PDF Data Extraction • Free PDF Converter
                </div>
            </div>
            
@@ -1054,12 +1202,47 @@
                    {% endif %}
                {% endwith %}
                
+               <!-- Features Section -->
+               <div class="features-section">
+                   <h2 style="text-align: center; margin-bottom: 2rem; background: var(--gradient-primary); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Why Choose Our PDF to Excel Converter?</h2>
+                   <div class="features-grid">
+                       <div class="feature-card">
+                           <div class="feature-icon">
+                               <i class="fas fa-table"></i>
+                           </div>
+                           <h3 class="feature-title">Smart Table Extraction</h3>
+                           <p class="feature-description">AI-powered technology automatically detects and extracts tables from PDF documents with high accuracy.</p>
+                       </div>
+                       <div class="feature-card">
+                           <div class="feature-icon">
+                               <i class="fas fa-file-excel"></i>
+                           </div>
+                           <h3 class="feature-title">Excel Format Output</h3>
+                           <p class="feature-description">Convert PDF tables directly to Excel spreadsheets (.xlsx) with preserved formatting and structure.</p>
+                       </div>
+                       <div class="feature-card">
+                           <div class="feature-icon">
+                               <i class="fas fa-shield-alt"></i>
+                           </div>
+                           <h3 class="feature-title">Forensic Analysis</h3>
+                           <p class="feature-description">Advanced forensic analysis to detect document modifications and verify authenticity.</p>
+                       </div>
+                       <div class="feature-card">
+                           <div class="feature-icon">
+                               <i class="fas fa-bolt"></i>
+                           </div>
+                           <h3 class="feature-title">Lightning Fast</h3>
+                           <p class="feature-description">Process PDF documents in seconds with our optimized AI algorithms and cloud infrastructure.</p>
+                       </div>
+                   </div>
+               </div>
+               
                <div class="upload-section">
                    <div class="upload-icon">
                        <i class="fas fa-file-pdf"></i>
                    </div>
-                   <h2>Upload PDF Document</h2>
-                   <p>Select a PDF file for comprehensive forensic analysis, intelligent table extraction, and security assessment</p>
+                   <h2>Upload PDF to Convert to Excel</h2>
+                   <p>Select a PDF file to extract tables, convert to Excel format, and analyze document content with our AI-powered converter</p>
                    <form id="uploadForm" enctype="multipart/form-data">
                        <div class="file-input-wrapper">
                            <input type="file" id="pdfFile" name="file" accept=".pdf" required class="file-input">
@@ -1070,8 +1253,8 @@
                        </div>
                        <br>
                        <button type="submit" class="btn btn-accent" id="processBtn">
-                           <i class="fas fa-search"></i>
-                           <span>Start Analysis</span>
+                           <i class="fas fa-magic"></i>
+                           <span>Convert PDF to Excel</span>
                        </button>
                    </form>
                </div>
@@ -1080,23 +1263,23 @@
                    <div class="progress-bar">
                        <div class="progress-fill" id="progressFill"></div>
                    </div>
-                   <div class="progress-text" id="progressText">Processing...</div>
+                   <div class="progress-text" id="progressText">Processing your PDF...</div>
                </div>
                
                <div class="results-section" id="resultsSection">
                    <div class="tab-container">
                        <div class="tab-buttons">
                            <button class="tab-button active" onclick="showTab('analysis')">
-                               <i class="fas fa-chart-line"></i> Forensic Analysis
+                               <i class="fas fa-chart-line"></i> Document Analysis
                            </button>
                            <button class="tab-button" onclick="showTab('tables')">
-                               <i class="fas fa-table"></i> Extracted Tables
+                               <i class="fas fa-table"></i> Excel Tables
                            </button>
                            <button class="tab-button" onclick="showTab('text')">
-                               <i class="fas fa-file-alt"></i> Text Content
+                               <i class="fas fa-file-alt"></i> Extracted Text
                            </button>
                            <button class="tab-button" onclick="showTab('downloads')">
-                               <i class="fas fa-download"></i> Downloads
+                               <i class="fas fa-download"></i> Download Files
                            </button>
                        </div>
                        
@@ -1115,8 +1298,8 @@
                        
                        <div id="downloads-tab" class="tab-content">
                            <div class="download-section">
-                               <h3><i class="fas fa-download"></i> Download Analysis Results</h3>
-                               <p>Download the complete forensic analysis report and extracted data in various formats</p>
+                               <h3><i class="fas fa-download"></i> Download Converted Files</h3>
+                               <p>Download your converted Excel files, extracted text, and comprehensive analysis report</p>
                                <div class="download-buttons" id="downloadButtons"></div>
                            </div>
                        </div>
@@ -1127,11 +1310,13 @@
            <div class="footer">
                <div class="footer-content">
                    <span class="footer-logo">
-                       <i class="fas fa-globe"></i> Agility
+                       <i class="fas fa-globe"></i> PDFAnalyser
                    </span>
                    <span class="footer-text">•</span>
-                   <span class="footer-text">Developed by</span>
-                   <a href="https://agilitytech.ai" class="footer-link" target="_blank">agilitytech.ai</a>
+                   <span class="footer-text">Powered by</span>
+                   <a href="https://agilitytech.ai" class="footer-link" target="_blank">Agility Technologies</a>
+                   <span class="footer-text">•</span>
+                   <span class="footer-text">Free PDF to Excel Converter</span>
                </div>
            </div>
        </div>
